@@ -8,4 +8,8 @@ notebooks/
 .DS_Store
 
 flask_app/token.json
-flask_app/client_secret_local.json
+flask_app/client_secret_local.json.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
